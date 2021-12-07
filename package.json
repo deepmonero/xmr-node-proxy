@@ -19,12 +19,12 @@
   "dependencies": {
     "async": "2.1.4",
     "bignum": "^0.13.1",
-    "circular-buffer": "1.0.2",
-    "debug": "2.6.9",
-    "express": "4.14.0",
-    "minimist": "1.2.0",
-    "moment": "2.21.0",
-    "request": "^2.79.0",
+    "circular-buffer": "1.0.3",
+    "debug": "4.3.3",
+    "express": "4.17.1",
+    "minimist": "1.2.5",
+    "moment": "2.29.1",
+    "request": "^2.88.2",
     "cryptoforknote-util": "git+https://github.com/MoneroOcean/node-cryptoforknote-util.git#v11.0.1",
     "cryptonight-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git#v26.0.0"
   }
